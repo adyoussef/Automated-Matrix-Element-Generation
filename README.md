@@ -14,7 +14,7 @@ The Automated-Matrix-Element-Generation (AMEG) project provides a robust framewo
 
 ## Getting Started
 
-The externaml package [feynmna](https://pypi.org/project/feynman/) was used the generate the feynman diagrams, which can be installed with
+The externaml package [feynman](https://pypi.org/project/feynman/) was used the generate the feynman diagrams, which can be installed with
 
 ```
 pip install feynman
