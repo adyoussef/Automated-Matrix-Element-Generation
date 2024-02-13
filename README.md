@@ -10,11 +10,11 @@ The Automated-Matrix-Element-Generation (AMEG) project provides a robust framewo
 - utils1.py & utils2.py: Utility modules that provide support functions and classes for mathematical operations and data handling based on[Spacetime-Calc-Engine](https://github.com/adyoussef/Spacetime-Calc-Engine) and [Quantum-Particle-Simulator](https://github.com/adyoussef/Quantum-Particle-Simulator).
 - example.ipynb: A Jupyter notebook that demonstrates the use of AMEG with practical examples and tutorials.
 - ParticleData.xml: An XML file containing data on particles used in the matrix element calculations.
-- Documentation (ameg.pdf): A comprehensive guide and documentation for the AMEG project, detailing the theoretical background, software architecture, and user instructions.
+- Documentation (Ameg.pdf): A comprehensive guide and documentation for the AMEG project, detailing the theoretical background, software architecture, and user instructions.
 
 ## Getting Started
 
-The externaml package [feynman](https://pypi.org/project/feynman/) was used the generate the feynman diagrams, which can be installed with
+The external package [feynman](https://pypi.org/project/feynman/) was used the generate the Feynman diagrams, which can be installed with
 
 ```
 pip install feynman
@@ -26,7 +26,7 @@ cd Automated-Matrix-Element-Generation
 ```
 
 ## Usage
-Refer to example.ipynb and Ameg.pdf for a demonstration and for the documentation
+Refer to example.ipynb and Ameg.pdf for a demonstration and the documentation.
 
 
 
